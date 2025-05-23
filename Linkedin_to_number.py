@@ -10,7 +10,7 @@ import re
 app = Flask(__name__)
 
 # Your Hatch API key
-HATCH_API_KEY = "U2FsdGVkX1-z0zrPMSDgg-V3VhtHWjR8DJYlalXwM2XFGV0WLWcFIGqZ_qwbayZYXmFb1DXqpb_enKy2hyLTjQ"
+HATCH_API_KEY = "Paste APi Key Here"
 
 def limit_linkedins(df, limit):
     query = f"""
